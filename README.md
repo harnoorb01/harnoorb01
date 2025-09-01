@@ -1,6 +1,6 @@
 # Harnoor Bhatty
 
-👋 Hi! I'm Harnoor. I'm interested in the intersection of AI, data, health and product strategy. I like building stuff.  
+👋 Hi! I'm Harnoor. I like building stuff. I'm interested in AI, data and health tech.  
 🎓 McMaster Alum | 🧠 AI + Data | 💡 Digital Health 
 
 📍 Toronto, Canada  
