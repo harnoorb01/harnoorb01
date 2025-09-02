@@ -1,6 +1,6 @@
-# Harnoor Bhatty
+# Hi, I'm harnoor
 
-👋 Hi! I'm Harnoor. I like building stuff. I'm interested in AI, data and health tech.  
+I like building stuff. I'm interested in AI, data and health tech.  
 🎓 McMaster Alum | 🧠 AI + Data | 💡 Digital Health 
 
 📍 Toronto, Canada  
